@@ -1,0 +1,5 @@
+/Users/haus-dev/Documents/auto-arrange-image/src/cpp/CMakeFiles/mylib.dir
+/Users/haus-dev/Documents/auto-arrange-image/src/cpp/CMakeFiles/main.dir
+/Users/haus-dev/Documents/auto-arrange-image/src/cpp/CMakeFiles/test_rotate.dir
+/Users/haus-dev/Documents/auto-arrange-image/src/cpp/CMakeFiles/edit_cache.dir
+/Users/haus-dev/Documents/auto-arrange-image/src/cpp/CMakeFiles/rebuild_cache.dir
